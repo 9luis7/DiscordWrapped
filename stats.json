@@ -1,0 +1,426 @@
+{
+  "voice_sessions": [
+    {
+      "user_id": 340847570224152578,
+      "channel_id": 1420094053495607496,
+      "start_time": "2025-09-23T20:03:04.044347Z",
+      "end_time": "2025-09-23T20:03:46.175778Z",
+      "duration_minutes": 0
+    },
+    {
+      "user_id": 340847570224152578,
+      "channel_id": 1420094053495607496,
+      "start_time": "2025-09-23T20:04:00.573355Z",
+      "end_time": "2025-09-23T20:04:35.156174Z",
+      "duration_minutes": 0
+    },
+    {
+      "user_id": 340847570224152578,
+      "channel_id": 1420094053495607496,
+      "start_time": "2025-09-23T20:05:26.121633Z",
+      "end_time": "2025-09-23T20:07:52.799593Z",
+      "duration_minutes": 2
+    },
+    {
+      "user_id": 340847570224152578,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-23T20:11:26.294511Z",
+      "end_time": "2025-09-23T20:11:36.527808Z",
+      "duration_minutes": 0
+    },
+    {
+      "user_id": 340847570224152578,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-23T20:19:40.823405Z",
+      "end_time": "2025-09-23T20:19:42.458318Z",
+      "duration_minutes": 0
+    },
+    {
+      "user_id": 340847570224152578,
+      "channel_id": 1420094053495607496,
+      "start_time": "2025-09-23T21:05:24.661388Z",
+      "end_time": "2025-09-23T21:09:06.172880Z",
+      "duration_minutes": 3
+    },
+    {
+      "user_id": 1049697867838783568,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-23T21:37:35.848208Z",
+      "end_time": "2025-09-23T22:15:44.971792Z",
+      "duration_minutes": 38
+    },
+    {
+      "user_id": 410557973228683266,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-23T21:56:23.638372Z",
+      "end_time": "2025-09-23T22:19:19.024866Z",
+      "duration_minutes": 22
+    },
+    {
+      "user_id": 780966118587236373,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-23T22:09:51.444223Z",
+      "end_time": "2025-09-23T22:20:08.991412Z",
+      "duration_minutes": 10
+    },
+    {
+      "user_id": 400754684991635477,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-23T22:45:04.332686Z",
+      "end_time": "2025-09-23T23:11:19.786267Z",
+      "duration_minutes": 26
+    },
+    {
+      "user_id": 398443239453229058,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-23T22:12:27.790375Z",
+      "end_time": "2025-09-23T23:11:20.705004Z",
+      "duration_minutes": 58
+    },
+    {
+      "user_id": 844347694608810004,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-24T00:54:44.318571Z",
+      "end_time": "2025-09-24T01:21:58.051877Z",
+      "duration_minutes": 27
+    },
+    {
+      "user_id": 438339551946080256,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T01:23:09.248489Z",
+      "end_time": "2025-09-24T01:28:03.541566Z",
+      "duration_minutes": 4
+    },
+    {
+      "user_id": 476487025868931094,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T01:53:25.843781Z",
+      "end_time": "2025-09-24T01:54:46.372528Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 816116057931513868,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-24T01:55:10.777331Z",
+      "end_time": "2025-09-24T02:01:19.677227Z",
+      "duration_minutes": 6
+    },
+    {
+      "user_id": 1065744442545418271,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T02:24:11.874179Z",
+      "end_time": "2025-09-24T02:25:27.592808Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 638165586320556054,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T01:33:46.284565Z",
+      "end_time": "2025-09-24T02:54:16.508385Z",
+      "duration_minutes": 80
+    },
+    {
+      "user_id": 1117527972447014922,
+      "channel_id": 1115790119912362074,
+      "start_time": "2025-09-24T02:31:16.432454Z",
+      "end_time": "2025-09-24T02:54:57.440018Z",
+      "duration_minutes": 23
+    },
+    {
+      "user_id": 398443239453229058,
+      "channel_id": 1115790119912362074,
+      "start_time": "2025-09-24T05:21:51.822555Z",
+      "end_time": "2025-09-24T05:23:07.573640Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 1065744442545418271,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T22:09:05.735582Z",
+      "end_time": "2025-09-24T22:13:38.274485Z",
+      "duration_minutes": 4
+    },
+    {
+      "user_id": 1065744442545418271,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T22:13:39.234074Z",
+      "end_time": "2025-09-24T22:23:30.989046Z",
+      "duration_minutes": 9
+    },
+    {
+      "user_id": 1072548515500281937,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T23:10:20.540962Z",
+      "end_time": "2025-09-24T23:13:05.714844Z",
+      "duration_minutes": 2
+    },
+    {
+      "user_id": 638165586320556054,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T23:07:14.559288Z",
+      "end_time": "2025-09-24T23:19:02.124871Z",
+      "duration_minutes": 11
+    },
+    {
+      "user_id": 836289692462219276,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T23:11:42.944857Z",
+      "end_time": "2025-09-24T23:20:56.709296Z",
+      "duration_minutes": 9
+    },
+    {
+      "user_id": 638165586320556054,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T23:19:44.624447Z",
+      "end_time": "2025-09-24T23:23:03.331394Z",
+      "duration_minutes": 3
+    },
+    {
+      "user_id": 1072548515500281937,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T23:19:35.005225Z",
+      "end_time": "2025-09-24T23:24:19.606034Z",
+      "duration_minutes": 4
+    },
+    {
+      "user_id": 836289692462219276,
+      "channel_id": 1326645995202810019,
+      "start_time": "2025-09-24T23:25:18.833046Z",
+      "end_time": "2025-09-24T23:26:44.495779Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 398443239453229058,
+      "channel_id": 1115790119912362074,
+      "start_time": "2025-09-25T02:11:48.771637Z",
+      "end_time": "2025-09-25T02:20:55.336121Z",
+      "duration_minutes": 9
+    },
+    {
+      "user_id": 638165586320556054,
+      "channel_id": 1115790119912362074,
+      "start_time": "2025-09-25T02:13:29.284773Z",
+      "end_time": "2025-09-25T02:25:18.404890Z",
+      "duration_minutes": 11
+    }
+  ],
+  "game_sessions": [
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T20:19:23.172975Z",
+      "end_time": "2025-09-23T20:21:19.956242Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T20:35:13.395711Z",
+      "end_time": "2025-09-23T20:36:40.067894Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T21:05:38.763873Z",
+      "end_time": "2025-09-23T21:09:23.338383Z",
+      "duration_minutes": 3
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T21:24:47.814059Z",
+      "end_time": "2025-09-23T21:27:32.971689Z",
+      "duration_minutes": 2
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T21:33:03.157243Z",
+      "end_time": "2025-09-23T21:51:43.575923Z",
+      "duration_minutes": 18
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T22:13:53.906454Z",
+      "end_time": "2025-09-23T22:15:08.941951Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T22:33:39.121704Z",
+      "end_time": "2025-09-23T22:35:34.149025Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T22:35:39.159409Z",
+      "end_time": "2025-09-23T22:37:29.240396Z",
+      "duration_minutes": 1
+    },
+    {
+      "user_id": 400754684991635477,
+      "game_name": "Brave",
+      "start_time": "2025-09-23T21:49:17.990593Z",
+      "end_time": "2025-09-23T22:58:05.715530Z",
+      "duration_minutes": 68
+    },
+    {
+      "user_id": 400754684991635477,
+      "game_name": "Brave",
+      "start_time": "2025-09-23T23:09:41.577000Z",
+      "end_time": "2025-09-24T00:11:35.330044Z",
+      "duration_minutes": 61
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-23T23:09:34.264000Z",
+      "end_time": "2025-09-24T01:22:40.400301Z",
+      "duration_minutes": 133
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-24T01:22:42.403025Z",
+      "end_time": "2025-09-24T01:59:40.785469Z",
+      "duration_minutes": 36
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-24T02:06:11.122704Z",
+      "end_time": "2025-09-24T02:12:31.460665Z",
+      "duration_minutes": 6
+    },
+    {
+      "user_id": 400754684991635477,
+      "game_name": "Brave",
+      "start_time": "2025-09-24T14:56:00.983000Z",
+      "end_time": "2025-09-24T17:21:07.870671Z",
+      "duration_minutes": 145
+    },
+    {
+      "user_id": 400754684991635477,
+      "game_name": "Brave",
+      "start_time": "2025-09-24T14:56:00.983000Z",
+      "end_time": "2025-09-24T20:08:38.748434Z",
+      "duration_minutes": 312,
+      "end_hour": 20,
+      "end_weekday": 2,
+      "session_duration_hours": 5.2,
+      "peak_hour": 20
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-24T02:54:11.801000Z",
+      "end_time": "2025-09-24T23:17:09.870858Z",
+      "duration_minutes": 1222,
+      "end_hour": 23,
+      "end_weekday": 2,
+      "session_duration_hours": 20.37,
+      "peak_hour": 23
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-24T23:17:36.447185Z",
+      "start_hour": 23,
+      "start_weekday": 2,
+      "gaming_pattern": "noturno",
+      "is_weekend": false,
+      "session_date": "2025-09-24",
+      "end_time": "2025-09-24T23:19:28.297677Z",
+      "duration_minutes": 1,
+      "end_hour": 23,
+      "end_weekday": 2,
+      "session_duration_hours": 0.02,
+      "peak_hour": 23
+    },
+    {
+      "user_id": 400754684991635477,
+      "game_name": "Brave",
+      "start_time": "2025-09-24T14:56:00.983000Z",
+      "end_time": "2025-09-24T23:22:36.599084Z",
+      "duration_minutes": 506,
+      "end_hour": 23,
+      "end_weekday": 2,
+      "session_duration_hours": 8.43,
+      "peak_hour": 23
+    },
+    {
+      "user_id": 400754684991635477,
+      "game_name": "Brave",
+      "start_time": "2025-09-25T02:33:07.392781Z",
+      "start_hour": 2,
+      "start_weekday": 3,
+      "gaming_pattern": "noturno",
+      "is_weekend": false,
+      "session_date": "2025-09-25",
+      "end_time": "2025-09-25T02:44:52.706078Z",
+      "duration_minutes": 11,
+      "end_hour": 2,
+      "end_weekday": 3,
+      "session_duration_hours": 0.18,
+      "peak_hour": 2
+    },
+    {
+      "user_id": 340847570224152578,
+      "game_name": "Cursor",
+      "start_time": "2025-09-25T02:21:21.004786Z",
+      "start_hour": 2,
+      "start_weekday": 3,
+      "gaming_pattern": "noturno",
+      "is_weekend": false,
+      "session_date": "2025-09-25",
+      "end_time": "2025-09-25T02:50:08.139984Z",
+      "duration_minutes": 28,
+      "end_hour": 2,
+      "end_weekday": 3,
+      "session_duration_hours": 0.47,
+      "peak_hour": 2
+    }
+  ],
+  "user_profiles": {
+    "123456789": {
+      "achievements": [
+        "VOICE_1_HOUR"
+      ]
+    },
+    "340847570224152578": {
+      "achievements": [
+        "GAME_1_HOUR",
+        "GAME_10_HOURS"
+      ]
+    },
+    "400754684991635477": {
+      "achievements": [
+        "GAME_1_HOUR",
+        "GAME_10_HOURS"
+      ]
+    },
+    "1065744442545418271": {
+      "achievements": []
+    },
+    "1072548515500281937": {
+      "achievements": []
+    },
+    "638165586320556054": {
+      "achievements": [
+        "VOICE_1_HOUR"
+      ]
+    },
+    "836289692462219276": {
+      "achievements": []
+    },
+    "398443239453229058": {
+      "achievements": [
+        "VOICE_1_HOUR"
+      ]
+    }
+  }
+}
