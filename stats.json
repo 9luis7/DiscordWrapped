@@ -202,6 +202,76 @@
       "start_time": "2025-09-25T02:13:29.284773Z",
       "end_time": "2025-09-25T02:25:18.404890Z",
       "duration_minutes": 11
+    },
+    {
+      "user_id": 638165586320556054,
+      "channel_id": 1281819015727284226,
+      "start_time": "2025-09-26T00:22:25.724544Z",
+      "end_time": "2025-09-26T00:40:35.073382Z",
+      "duration_minutes": 18
+    },
+    {
+      "user_id": 1389677018744094720,
+      "channel_id": 1281818955672981545,
+      "start_time": "2025-09-26T00:24:19.037011Z",
+      "end_time": "2025-09-26T01:10:24.767498Z",
+      "duration_minutes": 46
+    },
+    {
+      "user_id": 638165586320556054,
+      "channel_id": 1281818955672981545,
+      "start_time": "2025-09-26T00:45:06.749715Z",
+      "end_time": "2025-09-26T01:10:38.280231Z",
+      "duration_minutes": 25
+    },
+    {
+      "user_id": 1049697867838783568,
+      "channel_id": 1281818955672981545,
+      "start_time": "2025-09-26T00:50:20.842038Z",
+      "end_time": "2025-09-26T01:10:39.061366Z",
+      "duration_minutes": 20
+    },
+    {
+      "user_id": 331561254999031819,
+      "channel_id": 1281819015727284226,
+      "start_time": "2025-09-26T00:15:16.968979Z",
+      "end_time": "2025-09-26T01:12:27.436019Z",
+      "duration_minutes": 57
+    },
+    {
+      "user_id": 331561254999031819,
+      "channel_id": 1281819015727284226,
+      "start_time": "2025-09-26T01:12:49.440152Z",
+      "end_time": "2025-09-26T01:15:12.426783Z",
+      "duration_minutes": 2
+    },
+    {
+      "user_id": 438339551946080256,
+      "channel_id": 1281819015727284226,
+      "start_time": "2025-09-26T00:55:38.905681Z",
+      "end_time": "2025-09-26T02:35:23.631293Z",
+      "duration_minutes": 99
+    },
+    {
+      "user_id": 302078629674745866,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-26T01:34:00.275606Z",
+      "end_time": "2025-09-26T02:45:20.735302Z",
+      "duration_minutes": 71
+    },
+    {
+      "user_id": 331561254999031819,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-26T01:15:13.924496Z",
+      "end_time": "2025-09-26T03:04:54.846245Z",
+      "duration_minutes": 109
+    },
+    {
+      "user_id": 476487025868931094,
+      "channel_id": 995389455248670720,
+      "start_time": "2025-09-26T01:19:55.269669Z",
+      "end_time": "2025-09-26T03:06:13.893097Z",
+      "duration_minutes": 106
     }
   ],
   "game_sessions": [
@@ -383,6 +453,22 @@
       "end_weekday": 3,
       "session_duration_hours": 0.47,
       "peak_hour": 2
+    },
+    {
+      "user_id": 816116057931513868,
+      "game_name": "Wallpaper Engine",
+      "start_time": "2025-09-26T00:51:53.587684Z",
+      "start_hour": 0,
+      "start_weekday": 4,
+      "gaming_pattern": "noturno",
+      "is_weekend": false,
+      "session_date": "2025-09-26",
+      "end_time": "2025-09-26T00:56:56.835080Z",
+      "duration_minutes": 5,
+      "end_hour": 0,
+      "end_weekday": 4,
+      "session_duration_hours": 0.08,
+      "peak_hour": 0
     }
   ],
   "user_profiles": {
@@ -418,6 +504,35 @@
       "achievements": []
     },
     "398443239453229058": {
+      "achievements": [
+        "VOICE_1_HOUR"
+      ]
+    },
+    "816116057931513868": {
+      "achievements": []
+    },
+    "1389677018744094720": {
+      "achievements": []
+    },
+    "1049697867838783568": {
+      "achievements": []
+    },
+    "331561254999031819": {
+      "achievements": [
+        "VOICE_1_HOUR"
+      ]
+    },
+    "438339551946080256": {
+      "achievements": [
+        "VOICE_1_HOUR"
+      ]
+    },
+    "302078629674745866": {
+      "achievements": [
+        "VOICE_1_HOUR"
+      ]
+    },
+    "476487025868931094": {
       "achievements": [
         "VOICE_1_HOUR"
       ]
