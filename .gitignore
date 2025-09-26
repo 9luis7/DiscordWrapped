@@ -50,3 +50,4 @@ Thumbs.db
 # Discord Bot specific
 discord_application_token.txt
 *.token
+.env

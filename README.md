@@ -1,4 +1,5 @@
 # DiscordWrapped Bot
+git clone --recurse-submodules https://github.com/9luis7/DiscordWrapped.git
 
 Um bot Discord desenvolvido com Red-DiscordBot que oferece funcionalidades de "wrapped" para análise de dados do servidor.
 
